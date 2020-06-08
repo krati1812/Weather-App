@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="96px" viewBox="0 0 89 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Moon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="ICONS" transform="translate(-262.000000, -92.000000)" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="3.12058991">
+            <path d="M309.09357,94.0058793 C301.50975,100.915847 296.718122,111.081517 296.718122,122.415539 C296.718122,143.233406 312.883559,160.109622 332.824637,160.109622 C338.840034,160.109622 344.511856,158.573921 349.499999,155.857579 C343.271463,173.245776 327.212226,185.625616 308.383304,185.625616 C284.147224,185.625616 264.5,165.114523 264.5,139.812808 C264.5,114.511093 284.147224,94 308.383304,94 C308.620503,94 308.857264,94.0019647 309.09357,94.0058793 Z" id="Moon"></path>
+        </g>
+    </g>
+</svg>
